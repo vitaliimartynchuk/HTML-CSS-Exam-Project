@@ -314,6 +314,7 @@ form {
 
 
 
+/* Медіа запити */
 @media (max-width: 850px) {
     form {
         margin: 10px;
